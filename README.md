@@ -1,1 +1,1 @@
-A function that returns the two numbers such that they add up to target.
+A Simple Chair-EShop Using HTML AND CSS ONLY
